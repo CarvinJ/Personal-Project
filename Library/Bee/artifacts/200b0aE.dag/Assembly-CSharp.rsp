@@ -340,7 +340,13 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VSSettingsProvider.ref.dll"
-"Assets/Scenes/PlayerController.cs"
+"Assets/CameraFollow.cs"
+"Assets/Free 2D Cartoon Parallax Background/Demo/Script/BackgroundControl_0.cs"
+"Assets/Free 2D Cartoon Parallax Background/Demo/Script/ParallaxBackground_0.cs"
+"Assets/Script/MoveLeft.cs"
+"Assets/Script/PlayerController.cs"
+"Assets/Script/RepeatBackground.cs"
+"Assets/Script/SpawnManger.cs"
 "Assets/SpritesArchers/Scripts/Change_Sprite.cs"
 -langversion:8.0
 
